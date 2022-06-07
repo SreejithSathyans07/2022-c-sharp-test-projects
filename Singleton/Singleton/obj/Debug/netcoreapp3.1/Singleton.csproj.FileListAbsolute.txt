@@ -1,0 +1,14 @@
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

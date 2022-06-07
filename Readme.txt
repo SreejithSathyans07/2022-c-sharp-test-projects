@@ -11,4 +11,7 @@
    Link: https://www.youtube.com/watch?v=VkrKNXscoto
 
 -----------------------------------------------------------------------------------
-   
+3. Singleton Implementation. Inspired from Tim Corey
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=ggqjVuJ0g_8
+-----------------------------------------------------------------------------------

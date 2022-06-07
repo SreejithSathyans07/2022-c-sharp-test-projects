@@ -1,0 +1,14 @@
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\bin\Debug\netcoreapp3.1\NormalApproach.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Singleton\NormalApproach\obj\Debug\netcoreapp3.1\NormalApproach.genruntimeconfig.cache
