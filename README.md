@@ -1,5 +1,3 @@
-# 2022-c-sharp-test-projects
-
 -----------------------------------------------------------------------------------
 
 1. Employee management: Kudvenkat ASP.NET Core project for beginners.
@@ -12,4 +10,8 @@
    Source: Youtube
    Link: https://www.youtube.com/watch?v=VkrKNXscoto
 
+-----------------------------------------------------------------------------------
+3. Singleton Implementation. Inspired from Tim Corey
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=ggqjVuJ0g_8
 -----------------------------------------------------------------------------------
