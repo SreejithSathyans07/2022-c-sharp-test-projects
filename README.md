@@ -15,3 +15,7 @@
    Source: Youtube
    Link: https://www.youtube.com/watch?v=ggqjVuJ0g_8
 -----------------------------------------------------------------------------------
+4. Collections in C#. Includes Generic collections and non generic collections, IComparable, IComparer etc
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=sqKcvVMz5AM
+-----------------------------------------------------------------------------------

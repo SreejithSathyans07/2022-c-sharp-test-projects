@@ -1,0 +1,14 @@
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

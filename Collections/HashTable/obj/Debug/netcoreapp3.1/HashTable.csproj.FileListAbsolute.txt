@@ -1,0 +1,14 @@
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache
