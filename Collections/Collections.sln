@@ -11,9 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparable", "IComparable\IComparable.csproj", "{FF07608F-4AAF-436D-B3BE-2D85B711552C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparer", "IComparer\IComparer.csproj", "{9C0070EA-84C9-4594-A454-49558A48C77D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparer", "IComparer\IComparer.csproj", "{9C0070EA-84C9-4594-A454-49558A48C77D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareDelegate", "CompareDelegate\CompareDelegate.csproj", "{5621EEF0-6008-4E52-8AA1-8568A5248B15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareDelegate", "CompareDelegate\CompareDelegate.csproj", "{5621EEF0-6008-4E52-8AA1-8568A5248B15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB534118-8D76-4B50-8D3F-16971AB27AA7}"
+	ProjectSection(SolutionItems) = preProject
+		Project Order.txt = Project Order.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

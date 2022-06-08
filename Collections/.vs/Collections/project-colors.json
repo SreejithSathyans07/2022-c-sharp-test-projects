@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff07608f-4aaf-436d-b3be-2d85b711552c": {
+      "ProjectGuid": "ff07608f-4aaf-436d-b3be-2d85b711552c",
+      "DisplayName": "IComparable",
+      "ColorIndex": 0
+    },
+    "b8b33f05-01b9-477e-8cc5-2de7dd385bb1": {
+      "ProjectGuid": "b8b33f05-01b9-477e-8cc5-2de7dd385bb1",
+      "DisplayName": "Generics",
+      "ColorIndex": 1
+    },
+    "55bf78a8-9df7-48c5-8e5d-6ecd6f2df6c0": {
+      "ProjectGuid": "55bf78a8-9df7-48c5-8e5d-6ecd6f2df6c0",
+      "DisplayName": "HashTable",
+      "ColorIndex": 2
+    },
+    "221c1ad8-1dfb-42c7-9919-92a4a242bdc1": {
+      "ProjectGuid": "221c1ad8-1dfb-42c7-9919-92a4a242bdc1",
+      "DisplayName": "Collections",
+      "ColorIndex": 3
+    },
+    "9c0070ea-84c9-4594-a454-49558a48c77d": {
+      "ProjectGuid": "9c0070ea-84c9-4594-a454-49558a48c77d",
+      "DisplayName": "IComparer",
+      "ColorIndex": 4
+    },
+    "5621eef0-6008-4e52-8aa1-8568a5248b15": {
+      "ProjectGuid": "5621eef0-6008-4e52-8aa1-8568a5248b15",
+      "DisplayName": "CompareDelegate",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ab534118-8d76-4b50-8d3f-16971ab27aa7": {
+      "ProjectGuid": "ab534118-8d76-4b50-8d3f-16971ab27aa7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
