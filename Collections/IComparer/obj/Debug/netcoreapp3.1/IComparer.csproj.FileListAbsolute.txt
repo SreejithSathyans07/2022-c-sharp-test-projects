@@ -1,0 +1,14 @@
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.exe
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.deps.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.runtimeconfig.dev.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\bin\Debug\netcoreapp3.1\IComparer.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.csproj.AssemblyReference.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfoInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.AssemblyInfo.cs
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.csproj.CoreCompileInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparer\obj\Debug\netcoreapp3.1\IComparer.genruntimeconfig.cache

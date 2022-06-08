@@ -1,0 +1,13 @@
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.exe
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.deps.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.runtimeconfig.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.runtimeconfig.dev.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\bin\Debug\netcoreapp3.1\CompareDelegate.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.AssemblyInfoInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.AssemblyInfo.cs
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.csproj.CoreCompileInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\CompareDelegate\obj\Debug\netcoreapp3.1\CompareDelegate.genruntimeconfig.cache

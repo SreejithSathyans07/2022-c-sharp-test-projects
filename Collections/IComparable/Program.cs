@@ -17,15 +17,6 @@ namespace IComparable
             else return 0;
         }
     }
-    public class CompareStudents : IComparer<Student>
-    {
-        public int Compare(Student x, Student y)
-        {
-            if(x.StudentAge > y.StudentAge) return 1;
-            else if(x.StudentAge < y.StudentAge) return -1;
-            else return 0; 
-        }
-    }
     internal class Program
     {
         static void Main(string[] args)
@@ -36,14 +27,9 @@ namespace IComparable
                 new Student(){StudentId= 102, StudentAge = 35, StudentName ="Arun"},
                 new Student(){StudentId= 105, StudentAge = 27, StudentName ="Seban"},
             };
-            //Comparing the student ids using IComparable interface
+
+            //Sorting the student ids using IComparable interface
             students.Sort();
-
-
-            //If we do not have the permission to modify the class and yet need to sort based on some fields of Students, 
-            //Then we can use the IComparer interface
-            CompareStudents obj = new CompareStudents();
-            students.Sort(obj);
 
 
             foreach (Student item in students)

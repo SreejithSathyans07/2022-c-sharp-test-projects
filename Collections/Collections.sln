@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{221C1AD8-1DFB-42C7-9919-92A4A242BDC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{221C1AD8-1DFB-42C7-9919-92A4A242BDC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{55BF78A8-9DF7-48C5-8E5D-6ECD6F2DF6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{55BF78A8-9DF7-48C5-8E5D-6ECD6F2DF6C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B8B33F05-01B9-477E-8CC5-2DE7DD385BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{B8B33F05-01B9-477E-8CC5-2DE7DD385BB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable", "IComparable\IComparable.csproj", "{FF07608F-4AAF-436D-B3BE-2D85B711552C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparable", "IComparable\IComparable.csproj", "{FF07608F-4AAF-436D-B3BE-2D85B711552C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparer", "IComparer\IComparer.csproj", "{9C0070EA-84C9-4594-A454-49558A48C77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareDelegate", "CompareDelegate\CompareDelegate.csproj", "{5621EEF0-6008-4E52-8AA1-8568A5248B15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{FF07608F-4AAF-436D-B3BE-2D85B711552C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF07608F-4AAF-436D-B3BE-2D85B711552C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF07608F-4AAF-436D-B3BE-2D85B711552C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0070EA-84C9-4594-A454-49558A48C77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0070EA-84C9-4594-A454-49558A48C77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0070EA-84C9-4594-A454-49558A48C77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0070EA-84C9-4594-A454-49558A48C77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5621EEF0-6008-4E52-8AA1-8568A5248B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5621EEF0-6008-4E52-8AA1-8568A5248B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5621EEF0-6008-4E52-8AA1-8568A5248B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5621EEF0-6008-4E52-8AA1-8568A5248B15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

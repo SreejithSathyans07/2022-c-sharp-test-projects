@@ -12,3 +12,17 @@ E:\Code\test-projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Deb
 E:\Code\test-projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
 E:\Code\test-projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb
 E:\Code\test-projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.genruntimeconfig.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.exe
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.deps.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.runtimeconfig.dev.json
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\bin\Debug\netcoreapp3.1\IComparable.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.csproj.AssemblyReference.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfoInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.AssemblyInfo.cs
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.csproj.CoreCompileInputs.cache
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.dll
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.pdb
+C:\My Dev Files\Projects\2022-c-sharp-test-projects\Collections\IComparable\obj\Debug\netcoreapp3.1\IComparable.genruntimeconfig.cache
