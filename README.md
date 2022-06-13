@@ -27,3 +27,11 @@
    Source: Youtube
    Link: https://www.youtube.com/watch?v=7SksH2hewzU
 -----------------------------------------------------------------------------------
+7. Interfaces by Bangar Raju
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=e1sQTCcldw8
+-----------------------------------------------------------------------------------
+8. Delegates by Bangar Raju
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=D8PyJyI4kb4&t=934s
+-----------------------------------------------------------------------------------
