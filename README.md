@@ -23,3 +23,7 @@
    Source: Udemy
    Link: Udemy course in my udemy account
 -----------------------------------------------------------------------------------
+6. Abstract classes by Bangar Raju
+   Source: Youtube
+   Link: https://www.youtube.com/watch?v=7SksH2hewzU
+-----------------------------------------------------------------------------------
