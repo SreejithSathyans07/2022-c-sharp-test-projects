@@ -26,15 +26,28 @@ namespace EmployeeManagement
                 app.UseDeveloperExceptionPage();
             }
 
+            FileServerOptions option = new FileServerOptions();
+            option.DefaultFilesOptions.DefaultFileNames.Clear();
+            option.DefaultFilesOptions.DefaultFileNames.Add("/welcome/home.html");
+
             app.UseRouting();
+            app.UseFileServer(option);
+            //app.Use(async (context, next) =>
+            //{
+            //    await context.Response.WriteAsync("\nHello world from the third middleware");
+            //    await next();
+            //});
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+                endpoints.MapGet("/test", async context =>
                 {
-                    await context.Response.WriteAsync(System.Diagnostics.Process.GetCurrentProcess().ProcessName);
+                    await context.Response.WriteAsync("Hello world from the first middleware");
+                    await context.Response.WriteAsync("\nHello world from the second middleware");
                 });
             });
+
+
         }
     }
 }

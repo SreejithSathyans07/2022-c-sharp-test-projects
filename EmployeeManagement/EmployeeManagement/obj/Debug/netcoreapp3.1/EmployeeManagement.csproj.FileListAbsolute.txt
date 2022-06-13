@@ -36,3 +36,22 @@ C:\My Dev Files\Projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeM
 C:\My Dev Files\Projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
 C:\My Dev Files\Projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
 C:\My Dev Files\Projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp3.1\EmployeeManagement.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp3.1\EmployeeManagement.genruntimeconfig.cache
