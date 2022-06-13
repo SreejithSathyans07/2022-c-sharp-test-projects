@@ -1,0 +1,14 @@
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+E:\Code\test-projects\2022-c-sharp-test-projects\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
