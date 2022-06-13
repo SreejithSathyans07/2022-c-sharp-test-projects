@@ -16,6 +16,8 @@ namespace EmployeeManagement
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc(option => option.EnableEndpointRouting=false);
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -28,22 +30,17 @@ namespace EmployeeManagement
 
             FileServerOptions option = new FileServerOptions();
             option.DefaultFilesOptions.DefaultFileNames.Clear();
-            option.DefaultFilesOptions.DefaultFileNames.Add("/welcome/home.html");
+            option.DefaultFilesOptions.DefaultFileNames.Add("/welcome/homes.html");
 
             app.UseRouting();
             app.UseFileServer(option);
-            //app.Use(async (context, next) =>
-            //{
-            //    await context.Response.WriteAsync("\nHello world from the third middleware");
-            //    await next();
-            //});
+            app.UseMvcWithDefaultRoute();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/test", async context =>
                 {
                     await context.Response.WriteAsync("Hello world from the first middleware");
-                    await context.Response.WriteAsync("\nHello world from the second middleware");
                 });
             });
 
